@@ -1,0 +1,17 @@
+.Pallete {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45%;
+  min-height: 300px;
+  margin: 2rem 1%;
+}
+
+.Pallete button {
+  width: 20%;
+  color: #a7a7a7;
+  font-size: 16px;
+  background-color: #242424;
+  border: 1px solid #353535;
+  margin: 2%;
+}

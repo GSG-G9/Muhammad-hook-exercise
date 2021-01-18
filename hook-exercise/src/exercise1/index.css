@@ -8,6 +8,7 @@
     align-items: center;
     justify-content: center;
     padding-bottom: 3rem;
+    box-sizing: border-box;
 }
 
 .Counter .Counter-btns {
