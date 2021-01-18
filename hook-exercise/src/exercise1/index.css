@@ -1,0 +1,45 @@
+.Counter {
+    width: 45%;
+    margin: 2rem 1%;
+    min-height: 300px;
+    background-color: rgb(48, 48, 48);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+.Counter .Counter-btns {
+    display: flex;
+    margin-top: auto;
+    width: 100%;
+    height: 80%;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+.Counter button {
+    width: 30%;
+    height: 30px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #a5a5a5;
+    color: #353535;
+    font-size: 16px;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+.Counter .show {
+    background-color: #a5a5a5;
+    padding: 1rem;
+    width: 100%;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: #353535;
+    box-sizing: border-box;
+}
